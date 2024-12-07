@@ -1,4 +1,6 @@
 {
+    "name": "Yonta Labs Staked SOL",
+	"symbol": "yontaSOL",
     "description": "Yonta Labs High Yield LST",
     "image": "https://raw.githubusercontent.com/sovereign-sol/sources/refs/heads/main/YontaSOLogo.png"
 }
